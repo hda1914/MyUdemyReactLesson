@@ -1,2 +1,0 @@
-# MyUdemyReactLesson
-Created with CodeSandbox
